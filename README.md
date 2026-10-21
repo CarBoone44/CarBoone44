@@ -1,68 +1,70 @@
 <div align="center">
 
-# ⛩️ Konnichiwa, World! I'm CarBoone44 🌸
+# ⚡ SYSTEM INITIALIZED: WELCOME TO CARBOONE44'S TERMINAL ⚡
 
 <p align="center">
-  <img src="https://media.tenor.com/IHjp4GuFLL8AAAAd/shingeki-no-kyojin-attack-on-titan.gif" width="100%" style="max-height: 380px; object-fit: cover; border-radius: 16px; border: 2px solid #ff79c6;" alt="Anime Header Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" style="max-height: 400px; object-fit: cover; border-radius: 16px; border: 2px solid #50fa7b; box-shadow: 0 0 20px rgba(80, 250, 123, 0.4);" alt="Anime Boy Late Night Coding Vibe" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF79C6&center=true&vCenter=true&multiline=true&width=600&height=75&lines=%E2%9C%A8+Software+Developer+%26+Digital+Craftsman+%E2%9C%A8;%F0%9F%8C%B8+Turning+coffee+%26+code+into+digital+magic+%F0%9F%8C%B8;%E2%9A%94%EF%8F%84+Surpassing+limits%2C+one+commit+at+a+time+%E2%9A%94%EF%8F%84" alt="Typing SVG Anime Style" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=50FA7B&center=true&vCenter=true&multiline=true&width=650&height=80&lines=%3E+Running+script%3A+architect_future.sh...;%3E+Full-Stack+Engineer+%7C+Night+Owl+Coder+%F0%9F%8C%99;%3E+Brewing+coffee+%26+compiling+dreams+into+reality+%E2%9A%A1;%3E+Overclocking+creativity%2C+one+commit+at+a+time+%F0%9F%94%A5" alt="Typing SVG Hacker Anime" />
 </p>
 
 <p align="center">
-  <a href="#-character-profile"><b>Profile</b></a> •
-  <a href="#-arc-status-current-focus"><b>Current Arc</b></a> •
-  <a href="#-skill-tree--inventory"><b>Skill Tree</b></a> •
-  <a href="#-power-levels--metrics"><b>Power Levels</b></a> •
-  <a href="#-summon-me"><b>Summon Me</b></a>
+  <a href="#-dev-logs--whoami"><b>[ Whoami ]</b></a> &nbsp;•&nbsp;
+  <a href="#-the-laboratory-current-work"><b>[ Active Labs ]</b></a> &nbsp;•&nbsp;
+  <a href="#-arsenal--tech-stack"><b>[ Tech Arsenal ]</b></a> &nbsp;•&nbsp;
+  <a href="#-system-analytics--metrics"><b>[ Analytics ]</b></a> &nbsp;•&nbsp;
+  <a href="#-establish-connection"><b>[ Connect ]</b></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/Mayur-Pagote/main/assets/divider.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 </div>
 
-## 📜 Character Profile
+## 💻 Dev Logs: $ whoami
 
-<img align="right" width="240" src="https://media.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.gif" alt="Rotating Earth" style="border-radius: 50%;" />
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Night Chill Coding" style="border-radius: 14px; border: 1px solid #6272a4;" />
 
-```ini
-[Protagonist Stats]
-Name        = CarBoone44
-Class       = Full-Stack Alchemist
-Origin      = Morocco 🇲🇦
-Affiliation = Open Source Guild
-Specialty   = Turning Complex Logic into Elegant Systems
-Current Quest = Building scalable, high-impact web universes
+```bash
+$ cat ~/.config/developer.profile
+
+NAME         = "CarBoone44"
+SPEC         = "Full-Stack Architect & Cyber Craftsman"
+COORDINATES  = "Morocco 🇲🇦"
+PRIMARY_ENV  = "Linux / Neovim / Dark Mode 🌙"
+STATUS       = "Overclocked & Building in Public"
+FAV_ANIME    = "Steins;Gate, Serial Experiments Lain, Cyberpunk: Edgerunners"
+CORE_PHILOSOPHY = "Clean architecture, seamless interfaces, zero friction."
 ```
 
-> *"If you don't take risks, you can't create a future."* — Monkey D. Luffy ⚡
+Hey there, fellow traveller of the net! 🚀 I'm an anime-loving software engineer who spends the midnight hours transforming intricate technical problems into elegant, snappy, high-performance web applications.
 
-Hey there! I'm **CarBoone44**, a passionate developer who treats coding like an epic anime storyline. I focus on writing clean, efficient code, building responsive interfaces, and architecting robust systems that make a tangible difference in the real world.
-
----
-
-## ⚡ Arc Status: Current Focus
-
-<img align="right" width="230" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Pixel Art Anime Vibe" style="border-radius: 12px;" />
-
-- 🗡️ **Active Quest**: Leveling up full-stack architecture with Next.js, TypeScript, and distributed microservices.
-- 🔮 **Mastering**: Advanced state management, system design patterns, and asynchronous workflows.
-- 🛡️ **Guild Missions**: Contributing to impactful open-source repositories and collaborating with developers worldwide.
-- 📖 **Training Arc**: Diving into cloud infrastructure, containerization, and modern developer tooling.
+When I'm plugged in, you'll find me listening to lofi synth beats, sipping dark coffee, and tinkering with modern web stacks, microservices, and distributed tooling.
 
 ---
 
-## ⚔️ Skill Tree & Inventory
+## 🔬 The Laboratory: Current Work
+
+<img align="right" width="240" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Pro Anime Coder" style="border-radius: 12px;" />
+
+- 🛰️ **Main Mission**: Architecting end-to-end full-stack applications with Next.js, TypeScript, and resilient cloud backends.
+- ⚡ **Deep Focus**: Optimizing client-side rendering pipelines and designing lightning-fast reactive UIs.
+- 🛡️ **Open-Source Radar**: Contributing back to developer utilities and building reusable open-source modules.
+- 🧪 **R&D Projects**: Experimenting with edge computing, WebSockets, and real-time collaborative state.
+
+---
+
+## ⚔️ Arsenal & Tech Stack
 
 <div align="center">
 
-### **Mastered Elements (Frontend & Backend)**
+### **Client & Server Runtime**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,html,css,tailwind,python&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,html,css,python&perline=10" />
 </p>
 
-### **Artifacts & Enchanted Gear (DevOps, DB & Tools)**
+### **Data Storage, Cloud & Tooling**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,vscode,linux,postman,figma&perline=10" />
 </p>
@@ -71,11 +73,11 @@ Hey there! I'm **CarBoone44**, a passionate developer who treats coding like an 
 
 ---
 
-## 📊 Power Levels & Metrics
+## 📊 System Analytics & Metrics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CarBoone44&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="CarBoone44 Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CarBoone44&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="CarBoone44 GitHub Stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=CarBoone44&theme=tokyonight&hide_border=true" alt="CarBoone44 Streak" />
 <br />
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarBoone44&layout=compact&theme=tokyonight&hide_border=true" alt="CarBoone44 Top Languages" />
@@ -84,27 +86,27 @@ Hey there! I'm **CarBoone44**, a passionate developer who treats coding like an 
 
 ---
 
-## ⛩️ Quest Log & Notable Builds
+## 🚀 Chamber of Projects
 
 <details>
-<summary><b>Inspect Quest Log (Projects & Missions) 📜</b></summary>
+<summary><b>Access Project Archives [Click to Decrypt] 🔓</b></summary>
 <br>
 
-| Realm | Tech Arsenal | Quest Objective |
+| Project Vector | Stack Matrix | Objective |
 |---|---|---|
-| **Web Platforms** | Next.js, React, TypeScript | Designing fluid user interfaces with zero latency |
-| **System Backends** | Node.js, Express, PostgreSQL, Docker | Constructing secure, battle-tested APIs |
-| **Developer Utilities** | Python, Bash, Automation Scripts | Eliminating repetitive tasks and sharpening DX |
+| **Full-Stack Platforms** | Next.js, React, Node.js, TypeScript | Building dynamic, responsive apps with stellar UX |
+| **API Engines & Services** | Express, PostgreSQL, MongoDB, Docker | Engineering fault-tolerant, scalable REST & GraphQL APIs |
+| **Automation Utilities** | Python, Shell, CI/CD Actions | Streamlining developer workflows and daily developer efficiency |
 
 </details>
 
 ---
 
-## 🔮 Summon Me
+## 📡 Establish Connection
 
 <div align="center">
 
-Whether you want to discuss a new project, recruit a fellow adventurer for open source, or talk anime and tech — feel free to reach out!
+Got a project idea, want to collaborate on open source, or talk anime and code? Hit me up anytime!
 
 <p align="center">
   <a href="https://github.com/CarBoone44">
@@ -117,16 +119,16 @@ Whether you want to discuss a new project, recruit a fellow adventurer for open 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:contact@carboone.dev">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-50FA7B?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayur-Pagote/Mayur-Pagote/main/assets/divider.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
 <p align="center">
-  <i>"Whatever you do, enjoy it to the fullest. That is the secret of life." — Rider (Fate/Zero)</i> 🌸
+  <i>"El Psy Kongroo. Code until the world line changes."</i> 🌙⚡
 </p>
 
 </div>
